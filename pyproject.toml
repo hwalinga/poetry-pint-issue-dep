@@ -6,7 +6,7 @@ authors = ["Hielke Walinga <hielkewalinga@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-Pint = "^0.18"
+pint = "^0.18"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
